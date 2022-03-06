@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apondi-911
-- 👀 I’m interested in Java and networking
+- 👀 I’m interested in Java and kotlin majorly android development
 - 🌱 I’m currently learning how sockets communicate with clients and servers
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with other developers ...
 - 📫 How to reach me ...
 
 <!---
